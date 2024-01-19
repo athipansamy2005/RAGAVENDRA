@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "img",
+			"path": "."
+		},
+		{
+			"name": "mediaqurey.html",
+			"path": "../../mediaqurey.html"
+		}
+	],
+	"settings": {}
+}
